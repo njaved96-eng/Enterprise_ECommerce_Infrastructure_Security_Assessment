@@ -49,4 +49,4 @@ Author
 
 Nouman Javed Nizami
 
-Cybersecurity & Network Security • Incident Response
+Cybersecurity & Network Security • Incident Response.
